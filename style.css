@@ -1,0 +1,22 @@
+table{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+#shoe th,#show td{
+    padding: 13px;
+}
+#btna td input{
+    width: 100%;
+    color: red;
+}
+table{width: 600px;background-color: lightblue;}
+table,td,th{
+    border: 1px,solidblack;
+    border-collapse: collapse;
+    font-size: 24px;
+}
+td,th{
+    padding: 16px;
+}
